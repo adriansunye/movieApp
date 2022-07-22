@@ -1,8 +1,9 @@
 footer {
   background-color: #2603fb;
-  padding-top: 5rem;
-  padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem; 
   color: #d7ff00;
+
 }
 
 footer > p {
@@ -27,14 +28,11 @@ footer > p {
 }
 
 .f2 {
-  padding-bottom: 4rem;
-  padding-top: 4rem;
-  transform: translate(0%, -20%);
+  transform: translate(0%, -70%);
 }
 
 #footerf {
   color: #d7ff00;
-  padding: -1rem;
 }
 
 #fmail {
@@ -50,13 +48,13 @@ footer > p {
   transform: translate(0%, -20%);
 }
 
-a:link,
-a:visited {
+.f1>a:link,
+.f1>a:visited {
   color: #d7ff00;
   text-decoration: none;
 }
 
-a:hover,
-a:active {
+.f1>a:hover,
+.f1>a:active {
   color: #fafdff;
 }

@@ -1,5 +1,6 @@
 .general{
     padding-top: 80px;
+    padding-bottom: 5rem;
    
 }
 .espacio{
@@ -8,3 +9,43 @@
 li{
 	list-style:none;
 }
+
+.badge {
+    color: #d7ff00;
+    background-color: #2603fb;
+}
+
+.att {
+font-style: italic;
+font-size: 1rem;
+}
+
+/* ------------ Fuentes ----------*/
+h1,
+h2,
+h3 {
+  font-family: "Secular One", sans-serif;
+  line-height: 5.5rem;
+}
+
+p {
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.3rem;
+}
+
+span {
+color:  grey;}
+
+h1 {
+    font-size: 4rem;
+    padding-bottom: 2rem;
+}
+
+/* ---------- Linea ------------ */
+
+.line {
+    border-top: 2px dashed black;
+    height: 2px;
+    padding: 0;
+    margin:  auto 0 auto; 
+  }
